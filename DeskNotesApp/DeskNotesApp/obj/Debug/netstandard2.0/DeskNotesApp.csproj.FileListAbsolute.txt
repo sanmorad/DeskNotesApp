@@ -1,0 +1,14 @@
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\bin\Debug\netstandard2.0\DeskNotesApp.deps.json
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\bin\Debug\netstandard2.0\DeskNotesApp.dll
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\bin\Debug\netstandard2.0\DeskNotesApp.pdb
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.App.xaml.g.cs
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.View.MainPage.xaml.g.cs
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.View.Master.xaml.g.cs
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.AssemblyInfoInputs.cache
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.AssemblyInfo.cs
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.dll
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.pdb
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.View.Config.xaml.g.cs
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.View.NuevoElem.xaml.g.cs
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp\obj\Debug\netstandard2.0\DeskNotesApp.View.Tablon.xaml.g.cs

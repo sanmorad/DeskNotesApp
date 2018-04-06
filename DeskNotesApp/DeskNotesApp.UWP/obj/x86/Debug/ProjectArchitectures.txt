@@ -1,0 +1,1 @@
+C:\Users\Kalash\Clase\TFG\DeskNotesApp\DeskNotesApp\DeskNotesApp.UWP\DeskNotesApp.UWP.csproj;x86

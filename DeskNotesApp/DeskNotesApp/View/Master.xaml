@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DeskNotesApp.View.Master"
+             xmlns:model="clr-namespace:DeskNotesApp.Modelo"
+             xmlns:view="clr-namespace:DeskNotesApp.View"
+             Title="DeskNotes">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="listView">
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type model:MasterPageItem}">
+                        <model:MasterPageItem Title="Nuevo Elemento" IconSource="add.svg" TargetType="{x:Type view:NuevoElem}" />
+                        <model:MasterPageItem Title="Configuracion" IconSource="settings.svg" TargetType="{x:Type view:Config}" />
+                    </x:Array>
+                </ListView.ItemsSource>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="5,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="30"/>
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image Source="{Binding IconSource}" />
+                                <Label Grid.Column="1" Text="{Binding Title}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
